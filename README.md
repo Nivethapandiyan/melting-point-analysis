@@ -1,2 +1,27 @@
-# melting-point-analysis
-  Analyzed a real-world chemical dataset to study melting point distribution across various compounds. Performed data cleaning and preprocessing using Python, handled missing and non-numeric values. Visualized melting point distribution using histograms and extracted key insights such as highest and lowest melting point compounds. 
+Chemical Data Analysis – Melting Point Study
+
+📌 Overview
+This project analyzes melting point data of chemical compounds using Python.
+
+📊 Dataset
+Dataset sourced from Kaggle.
+
+⚙️ Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+🔍 Work Done
+- Cleaned dataset (handled missing values)
+- Converted melting point data to numeric
+- Performed exploratory data analysis (EDA)
+- Visualized melting point distribution
+- Identified highest and lowest melting point compounds
+
+📈 Results
+- Highest melting point: Sodium Chloride (~804°C)
+- Lowest melting point: Carbon monoxide (~ -205°C)
+- Observed variation in melting point distribution
+
+🎯 Conclusion
+Melting point varies significantly across compounds, with clear outliers and distribution trends.
